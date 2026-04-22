@@ -1,0 +1,72 @@
+[
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2026-04-21T13:49:38.773270",
+    "logged_at": "2026-04-21T13:49:38.773356"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2026-04-21T14:42:30.276858",
+    "logged_at": "2026-04-21T14:42:30.278042"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude Code needs your approval for the plan",
+    "notification_type": "permission_prompt",
+    "timestamp": "2026-04-21T15:04:55.217084",
+    "logged_at": "2026-04-21T15:04:55.217715"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2026-04-21T15:10:46.729637",
+    "logged_at": "2026-04-21T15:10:46.731274"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt",
+    "timestamp": "2026-04-21T15:33:43.311564",
+    "logged_at": "2026-04-21T15:33:43.311676"
+  },
+  {
+    "session_id": "9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai/9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Write",
+    "notification_type": "permission_prompt",
+    "timestamp": "2026-04-21T16:16:22.952114",
+    "logged_at": "2026-04-21T16:16:22.952954"
+  },
+  {
+    "session_id": "9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai/9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission to use Update",
+    "notification_type": "permission_prompt",
+    "timestamp": "2026-04-21T16:43:02.259400",
+    "logged_at": "2026-04-21T16:43:02.260403"
+  }
+]

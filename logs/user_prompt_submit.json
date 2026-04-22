@@ -1,0 +1,74 @@
+[
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "lets go",
+    "logged_at": "2026-04-21T11:46:49.670993"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "whats next ?",
+    "logged_at": "2026-04-21T13:52:08.967466"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "<task-notification>\n<task-id>bjok7p7sr</task-id>\n<tool-use-id>toolu_01QZtovRAiEFVvUv2KikYTwg</tool-use-id>\n<output-file>/tmp/claude-1000/-home-a1xai--openclaw/6d86eb6d-3c94-4777-b607-b99e82aafc65/tasks/bjok7p7sr.output</output-file>\n<status>completed</status>\n<summary>Background command \"Launch first2apply Electron app\" completed (exit code 0)</summary>\n</task-notification>",
+    "logged_at": "2026-04-21T14:41:12.331192"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "plan",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "error closing job board : cannot read properties of undefined (reading 'webContents') , i tried again and got this error Error saving job search\nHmm, we couldn\u2019t detect any jobs on this LinkedIn page. This usually means you\u2019re viewing a single job instead of a list of jobs. If that\u2019s not the case, the site layout may have changed. You can still save it for now while we fix it, or contact us so we can take a look.",
+    "logged_at": "2026-04-21T14:55:55.109494"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "Error saving job search\nHmm, we couldn\u2019t detect any jobs on this LinkedIn page. This usually means you\u2019re viewing a single job instead of a list of jobs. If that\u2019s not the case, the site layout may have changed. You can still save it for now while we fix it, or contact us so we can take a look. !! but i did saved it anyway ! now explain for me simply what first 2 apply actully dose  ?",
+    "logged_at": "2026-04-21T15:16:39.959038"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "great ! i loved how first 2 works , next is applypilot !! how to open it and see how its working ?",
+    "logged_at": "2026-04-21T15:21:03.909374"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "no our next step is to make first 2 apply our base ! and build on it ! will build a new page inside that represent applypilot ! the first 2 apply intgarte with applypilot,  and to not damage any of them we need to plan perfectly for that !! , first right a new initial.md",
+    "logged_at": "2026-04-21T15:29:56.597646"
+  },
+  {
+    "session_id": "57d0f8e6-31a5-4406-a417-d404e28b3b3d",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai--openclaw/57d0f8e6-31a5-4406-a417-d404e28b3b3d.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "yes genereate",
+    "logged_at": "2026-04-21T15:36:11.431183"
+  }
+]

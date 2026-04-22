@@ -1,0 +1,61 @@
+{
+  "personal": {
+    "full_name": "A1 Test",
+    "preferred_name": "A1",
+    "email": "lms.mhg@gmail.com",
+    "password": "placeholder-password",
+    "phone": "555-000-0001",
+    "address": "123 Test Street",
+    "city": "Remote",
+    "province_state": "CA",
+    "country": "United States",
+    "postal_code": "00000",
+    "linkedin_url": "",
+    "github_url": "https://github.com/a1cy",
+    "portfolio_url": "",
+    "website_url": ""
+  },
+  "work_authorization": {
+    "legally_authorized_to_work": "Yes",
+    "require_sponsorship": "No",
+    "work_permit_type": ""
+  },
+  "availability": {
+    "earliest_start_date": "Immediately",
+    "available_for_full_time": "Yes",
+    "available_for_contract": "No"
+  },
+  "compensation": {
+    "salary_expectation": "100000",
+    "salary_currency": "USD",
+    "salary_range_min": "90000",
+    "salary_range_max": "130000",
+    "currency_conversion_note": ""
+  },
+  "experience": {
+    "years_of_experience_total": "5",
+    "education_level": "Bachelor's Degree",
+    "current_job_title": "Software Engineer",
+    "current_company": "",
+    "target_role": "software engineer"
+  },
+  "skills_boundary": {
+    "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
+    "frameworks": ["Next.js", "FastAPI", "React", "Node.js"],
+    "devops": ["Docker", "AWS", "CI/CD", "Git"],
+    "databases": ["PostgreSQL", "Supabase", "Redis"],
+    "tools": ["Git", "Linux", "VSCode"]
+  },
+  "resume_facts": {
+    "preserved_companies": ["Placeholder Corp"],
+    "preserved_projects": ["Project Alpha"],
+    "preserved_school": "Test University",
+    "real_metrics": ["50% improvement", "10x faster"]
+  },
+  "eeo_voluntary": {
+    "gender": "Decline to self-identify",
+    "race_ethnicity": "Decline to self-identify",
+    "veteran_status": "I am not a protected veteran",
+    "disability_status": "I do not wish to answer"
+  }
+}
