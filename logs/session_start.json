@@ -1,0 +1,11 @@
+[
+  {
+    "session_id": "9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai/9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "hook_event_name": "SessionStart",
+    "source": "compact",
+    "model": "claude-opus-4-6",
+    "logged_at": "2026-04-22T11:17:34.532387"
+  }
+]

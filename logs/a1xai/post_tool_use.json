@@ -1820,5 +1820,92 @@
       "execution_time": 0,
       "timestamp": "2026-04-22T11:08:03.448826"
     }
+  },
+  {
+    "session_id": "9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai/9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PostToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "git fetch origin && git reset --hard origin/main && git log --oneline -3",
+      "description": "Reset job-auto-applier applypilot to match clean fork"
+    },
+    "tool_response": {
+      "stdout": "From github.com:A1cy/ApplyPilot\n   10ae941..8649468  main       -> origin/main\nHEAD is now at 8649468 ds\n8649468 ds\n10ae941 chore: restructure repo, add logs, gitignore .venv\n2cea7ed chore: add audit report and gitignore .venv",
+      "stderr": "",
+      "interrupted": false,
+      "isImage": false,
+      "noOutputExpected": false
+    },
+    "tool_use_id": "toolu_01H6Brdx3Bb2Qxq1AQTRiTQ4",
+    "a1xai_timestamp": "2026-04-22T11:12:16.233872",
+    "a1xai_hook_version": "7.0_optimized",
+    "a1xai_framework": "SuperClaude",
+    "a1xai_analysis": {
+      "tool_type": "Bash",
+      "success": false,
+      "execution_time": 0,
+      "timestamp": "2026-04-22T11:12:16.233334"
+    }
+  },
+  {
+    "session_id": "9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai/9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PostToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "cd /home/a1xai/.openclaw/loopedin/.sources/applypilot && git status --short | head -5 && echo \"===\" && cd /home/a1xai/.openclaw/job-auto-applier/.sources/applypilot && git status --short | head -5",
+      "description": "Check what's dirty in both applypilot copies"
+    },
+    "tool_response": {
+      "stdout": " M logs/a1xai/post_tool_use.json\n M logs/pre_tool_use.json\n===\n M logs/a1xai/post_tool_use.json\n M logs/pre_tool_use.json",
+      "stderr": "",
+      "interrupted": false,
+      "isImage": false,
+      "noOutputExpected": false
+    },
+    "tool_use_id": "toolu_01S5LVBuwWizD2PUf7NNdGtg",
+    "a1xai_timestamp": "2026-04-22T11:15:40.915646",
+    "a1xai_hook_version": "7.0_optimized",
+    "a1xai_framework": "SuperClaude",
+    "a1xai_analysis": {
+      "tool_type": "Bash",
+      "success": false,
+      "execution_time": 0,
+      "timestamp": "2026-04-22T11:15:40.914855"
+    }
+  },
+  {
+    "session_id": "9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26",
+    "transcript_path": "/home/a1xai/.claude/projects/-home-a1xai/9b1721b8-d03a-4dc7-ba90-05f2ab5b1c26.jsonl",
+    "cwd": "/home/a1xai/.openclaw/job-auto-applier/.sources/applypilot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PostToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "cd /home/a1xai/.openclaw/job-auto-applier/.sources/applypilot && git status --short && echo \"---\" && git log --oneline -3",
+      "description": "Check job-auto-applier applypilot state"
+    },
+    "tool_response": {
+      "stdout": " M logs/a1xai/post_tool_use.json\n M logs/pre_tool_use.json\n M logs/subagent_stop.json\n?? logs/pre_compact.json\n?? logs/session_start.json\n---\n8649468 ds\n10ae941 chore: restructure repo, add logs, gitignore .venv\n2cea7ed chore: add audit report and gitignore .venv",
+      "stderr": "",
+      "interrupted": false,
+      "isImage": false,
+      "noOutputExpected": false
+    },
+    "tool_use_id": "toolu_01DduwytVnBFHrYTS2RpxJzL",
+    "a1xai_timestamp": "2026-04-22T11:17:50.890770",
+    "a1xai_hook_version": "7.0_optimized",
+    "a1xai_framework": "SuperClaude",
+    "a1xai_analysis": {
+      "tool_type": "Bash",
+      "success": false,
+      "execution_time": 0,
+      "timestamp": "2026-04-22T11:17:50.890280"
+    }
   }
 ]
